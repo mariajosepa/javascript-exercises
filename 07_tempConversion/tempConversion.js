@@ -10,10 +10,6 @@ const convertToFahrenheit = function(temp) {
 };
 
 
-console.log(convertToFahrenheit(0))
-
-console.log(convertToCelsius(100))
-
 // Do not edit below this line
 module.exports = {
   convertToCelsius,
